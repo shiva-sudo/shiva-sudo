@@ -49,7 +49,7 @@ As a Software Development Engineer at, LUMEN TECHNOLOGY responsible to develop h
 
 ### Let's Connect
 
-- ** **: www.linkedin.com/in/shivpoojan-rajak
+- **Linked in**: www.linkedin.com/in/shivpoojan-rajak
 
 ---
 
