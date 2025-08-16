@@ -2,7 +2,7 @@
 
 ### About Me
 
-As a Software Development Engineer at, LUMEN TECHNOLOGY responsible to develop highly scalable applications using Java technology. I use Core Java, Hibernate, Spring MVC, Spring Boot, and JDBC to deliver solutions to complex problems in a creative and challenging environment.
+As a Information Systems Engineer at, LUMEN TECHNOLOGY responsible to develop highly scalable applications using Java technology. I use Core Java, Hibernate, Spring MVC, Spring Boot, and JDBC to deliver solutions to complex problems in a creative and challenging environment.
 
 ---
 
